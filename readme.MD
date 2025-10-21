@@ -188,7 +188,7 @@ Built with ❤️  and Swift
 
 - GitHub: jrudydev(https://github.com/jrudydev)
 - LinkedIn: jrududygomez(https://linkedin.com/in/jrudygomez)
-- Portfolio: jrudygomez(https://your-website.com)
+- Portfolio: jrudygomez(https://jrudygomez.com)
 
 ## ⭐ Acknowledgments
 
